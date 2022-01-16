@@ -2,10 +2,7 @@
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/dev-aclara/landing-page-study/blob/main/LICENSE)  ![GitHub last commit](https://img.shields.io/github/last-commit/dev-aclara/landing-page-study) ![GitHub repo size](https://img.shields.io/github/repo-size/dev-aclara/landing-page-study) ![GitHub followers](https://img.shields.io/github/followers/dev-aclara?style=social)
 
-<br>
 Repositório criado para armazenar o que foi desenvolvido junto ao vídeo "LANDING PAGE COM HTML e CSS!" do canal Rafaella Ballerini.
-
-<br>
 
 ## 💻 O projeto
 
